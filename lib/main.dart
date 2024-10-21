@@ -42,7 +42,7 @@ class WeatherApp extends StatelessWidget {
                     ?.weatherCondition,
               ), //context after create cubit
             ),
-            home: const HomeView(),
+            home:  HomeView(),
           );
         }),
       ),
